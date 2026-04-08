@@ -1,5 +1,3 @@
-# Prediccion-Merma-Laminacion-ML
-Proyecto final de Machine Learning para predecir pérdidas de material en empaques flexibles.
 # Predicción de Merma en el Proceso de Laminación mediante Machine Learning
 
 **Autor:** David Guerra, Ingeniero Industrial  
